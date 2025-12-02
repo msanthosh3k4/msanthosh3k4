@@ -1,18 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/msanthosh3k4/msanthosh3k4/main/banner2.png"
-       style="width:60%; border-radius:10px; border:1px solid rgba(255,255,255,0.06);" />
+  <img src="https://raw.githubusercontent.com/msanthosh3k4/msanthosh3k4/main/banner2.png" style="width:60%; border-radius:10px;" />
 </div>
 
 # 👋 Hi, I'm Magapu Santhosh
 
-**DevOps Engineer @ Infosys Limited**  
-**DevOps | Cloud | Automation | Infrastructure as Code**
-
+### DevOps Engineer @ Infosys Limited  
 🚀 DevOps • Cloud Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform | Ansible | Mentor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/santhosh-magapu-84358421b/)
 [![Gmail](https://img.shields.io/badge/Email-santhoshmagapu4@gmail.com-red?logo=gmail&style=flat)](mailto:santhoshmagapu4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-msanthosh3k4-black?logo=github&style=flat)](https://github.com/msanthosh3k4)
 
 ---
 
@@ -20,13 +16,17 @@ Passionate **DevOps & AWS Cloud Engineer** with **4 years of experience** in inf
 
 ---
 
-## ⚡ Tech Stack (high level)
+## ⚡ Tech Stack
 
 <div align="center">
 
-### ☁️ Cloud & OS
+### ☁️ Cloud Platform & OS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Scripting
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ DevOps & CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -35,10 +35,13 @@ Passionate **DevOps & AWS Cloud Engineer** with **4 years of experience** in inf
 ### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white)
 
-### 🔧 IaC & Configuration
+### 🔧 Infrastructure & Monitoring
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
 
@@ -46,31 +49,38 @@ Passionate **DevOps & AWS Cloud Engineer** with **4 years of experience** in inf
 
 ### 🔧 What I Do
 
-- 🛠️ Build and manage scalable infrastructure on **AWS** using **Terraform** for secure, repeatable provisioning.  
-- ⚙️ Implement configuration management with **Ansible** for consistent server provisioning and automated deployments.  
-- 🚀 Design and implement CI/CD pipelines using **Jenkins** and **GitHub Actions** to accelerate delivery.  
-- 🐳 Containerize applications with **Docker** and orchestrate on **Kubernetes (EKS)** for high availability.  
-- 🤖 Automate operational tasks using **Shell** and **Python** to improve efficiency and reliability.  
-- 📈 Monitor systems with **Prometheus**, **Grafana**, and **CloudWatch** for observability.
+- 🛠️ Build and manage scalable infrastructure on **AWS** using **Terraform** for secure, repeatable, and automated provisioning.  
+- ⚙️ Implement Configuration Management with **Ansible**, ensuring consistent server provisioning and automated deployments.  
+- 🚀 Design and implement efficient CI/CD pipelines with **Jenkins**, accelerating software delivery.  
+- 🗃️ Manage source code and team collaboration using **GitHub**, enabling streamlined workflows and version control.  
+- 🐳 Deploy and orchestrate applications with **Docker** and **Kubernetes (EKS)** for high availability and scalability.  
+- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed.  
+- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus**.  
+- 🔐 Secure cloud environments using **IAM**, **RBAC**, ensuring compliance and access control.  
+- 📈 Ensure observability and performance with **Prometheus**, **Grafana**, and **CloudWatch**, minimizing downtime.
 
 ---
 
-### 💼 Experience Snapshot
+### 💼 Career Snapshot
 
-- 🏢 **Infosys** – *DevOps & AWS Cloud Engineer (4 Years)*
+- 🏢 **Infosys** – *DevOps & AWS Cloud Engineer (4 Years)*  
+  Experienced in AWS cloud, DevOps practices, CI/CD automation, Infrastructure as Code, container orchestration, and cloud security — delivering scalable, reliable, and efficient cloud platforms.
 
 ---
 
 ## ⚙️ Skills Showcase
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform" /></a>
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" alt="Ansible" /></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" alt="Git" /></a>
+
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36"/></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/></a>
+<a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/></a>
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/></a>
 </p>
 
 ---
@@ -78,13 +88,11 @@ Passionate **DevOps & AWS Cloud Engineer** with **4 years of experience** in inf
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msanthosh3k4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=msanthosh3k4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=msanthosh3k4&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msanthosh3k4&theme=dark&hide_border=false&layout=compact" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msanthosh3k4&theme=dark&hide_border=false" alt="streak-stats" />
 </div>
 
 ---
 
 > Thanks for visiting — feel free to reach out: **santhoshmagapu4@gmail.com**
-
